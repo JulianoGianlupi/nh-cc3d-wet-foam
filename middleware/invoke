@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/usr/bin/invoke_app "$@" -C @tool/bin/cc3dwf.sh -t cc3dwf \
+                         -u pyqt5-5.10.1 \
+                         -u vtk-6.3.0
