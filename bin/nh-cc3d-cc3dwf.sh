@@ -27,7 +27,7 @@ CC3D_TOOL_FILENAME=wetFoam.cc3d
 # CC3D_DEMO_PREFIX=Demos/BookChapterDemos_ComputationalMethodsInCellBiology/VascularTumor/
 USER_DEMO_PATH=$HOME/CompuCell3D_Demos/${CC3D_TOOL_NAME}
 echo ${USER_DEMO_PATH}
-MAIN_CC3D_FILES=${TOOL_HOME}/main/
+MAIN_CC3D_FILES=${TOOL_HOME}/main/.
 echo ${MAIN_CC3D_FILES}
 
 
